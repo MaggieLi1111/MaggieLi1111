@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me **lidanyang1111@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="left">https://www.linkedin.com/in/danyang-li-b5921968/
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
