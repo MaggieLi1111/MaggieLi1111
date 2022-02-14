@@ -13,6 +13,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![just-keep-coding](https://user-images.githubusercontent.com/88446801/153953913-8f155440-22f2-40bf-aff8-b2bf76c5028f.jpg)
+
 <h1 align="center">Hi 👋, I'm Danyang Li</h1>
 - 🌱 I’m currently learning **Computer Science in Bloom Institute of Technology**
 
