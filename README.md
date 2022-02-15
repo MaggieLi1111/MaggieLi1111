@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 <h1 align="center">Hi 👋, I'm Danyang Li</h1>
-- 🌱 I’m currently learning **Computer Science in Bloom Institute of Technology**
+- 🌱 I’m currently enrolled in **Bloom Institute of Technology (FKA Lambda School)**
 
 - 📫 How to reach me **lidanyang1111@gmail.com**
 
