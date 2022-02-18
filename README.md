@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img align="right" src="https://user-images.githubusercontent.com/88446801/154096399-49b03b0b-4d8d-4d3f-b954-4643fcbe572b.gif" width="320" height="300"></p>
+<img align="right" src="https://user-images.githubusercontent.com/88446801/154096399-49b03b0b-4d8d-4d3f-b954-4643fcbe572b.gif" width="300" height="260"></p>
 
 <h1 align="left">Hi 👋, I'm Danyang Li</h1>
 <h3 align="left"></h3>
