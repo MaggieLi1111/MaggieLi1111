@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 -->
 ![giphy](https://user-images.githubusercontent.com/88446801/154096399-49b03b0b-4d8d-4d3f-b954-4643fcbe572b.gif)
 
-<h1 align="center">Hi 👋, I'm Danyang Li</h1>
-<h3 align="center">A Full-Stack Web Developer from Pittsburgh, PA</h3>
+<h1 align="left">Hi 👋, I'm Danyang Li</h1>
+<h3 align="center"></h3>
 
 <h2 align="left">🔭 Full-Stack Web Developer with one year of online immersive program training</h2>
 <h2 align="left">🌱 Data-driven person, Math Honor Award </h2>
