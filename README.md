@@ -16,13 +16,13 @@ Here are some ideas to get you started:
 
 <img align="center" src="https://user-images.githubusercontent.com/88446801/154096399-49b03b0b-4d8d-4d3f-b954-4643fcbe572b.gif"></p>
 
-<h1 align="left">Hi 👋, I'm Danyang Li</h1>
+<h1 align="center">Hi 👋, I'm Danyang Li</h1>
 <h3 align="center"></h3>
 
-<h2 align="left">🔭 Full-Stack Web Developer with one year of online immersive program training</h2>
-<h2 align="left">🌱 Data-driven person, Math Honor Award </h2>
-<h2 align="left">👯 Three languages speaker (French, Chinese, English), Teacher, Interpreter </h2>
-<h2 align="left">📫 Feel free to email me at lidanyang1111@gmail.com </h2>
+<h2 align="center">🔭 Full-Stack Web Developer with one year of online immersive program training</h2>
+<h2 align="center">🌱 Data-driven person, Math Honor Award </h2>
+<h2 align="center">👯 Three languages speaker (French, Chinese, English), Teacher, Interpreter </h2>
+<h2 align="center">📫 Feel free to email me at lidanyang1111@gmail.com </h2>
 <p align="left">
 <a href="https://linkedin.com/in/danyang-li-b5921968/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="danyang-li-b5921968/" height="30" width="40" /></a>
 </p>
