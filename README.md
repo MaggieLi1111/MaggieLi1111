@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Danyang Li</h1>
 <h3 align="center">A Full-Stack Web Developer from Pittsburgh, PA</h3>
 
-<h2 align="left">Connect with me:</h2>
 <h2 align="left">🔭 Full-Stack Web Developer with one year of online immersive program training</h2>
 <h2 align="left">🌱 Data-driven person, Math Honor Award </h2>
 <h2 align="left">👯 Three languages speaker (French, Chinese, English), Teacher, Interpreter </h2>
