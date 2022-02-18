@@ -18,8 +18,11 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Danyang Li</h1>
 <h3 align="center">A Full-Stack Web Developer from Pittsburgh, PA</h3>
 
-<h2 align="left">Full-Stack Web Developer with one year of online immersive program training</h2>
-<h3 align="left">Connect with me:lidanyang1111@gmail.com</h3>
+<h2 align="left">Connect with me:lidanyang1111@gmail.com</h2>
+<h2 align="left">🔭 Full-Stack Web Developer with one year of online immersive program training</h2>
+<h2 align="left">🌱 Data-driven person, Math Honor Award </h2>
+<h2 align="left">👯 Three languages speaker (French, Chinese, English), Teacher, Interpreter </h2>
+<h2 align="left">📫 Feel free to email me at lidanyang1111@gmail.com </h2>
 <p align="left">
 <a href="https://linkedin.com/in/danyang-li-b5921968/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="danyang-li-b5921968/" height="30" width="40" /></a>
 </p>
