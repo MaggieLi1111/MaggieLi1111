@@ -4,7 +4,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 Full-Stack Web Developer with one year of online immersive program training 
+- 🔭 Full-Stack Web Developer with Bloom Institute of Technology immersive program
 - 🌱 Data-driven person, Math Honor Award
 - 👯 Three languages speaker (French, Chinese, English), Teacher, Interpreter
 - 🤔 I’m looking for help with ...
