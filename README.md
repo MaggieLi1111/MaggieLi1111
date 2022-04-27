@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 <h1 align="left">Hi 👋, I'm Danyang Li</h1>
 <h3 align="left"></h3>
 
-<h2 align="left">🌱 Full-Stack Web Developer with one year of online immersive program training</h2>
-<h2 align="left">🔭 Data-driven person, Math Honor Award </h2>
+<h2 align="left">🌱 Full-Stack Web Developer with online immersive program training</h2>
+<h2 align="left">🔭 Data-driven person, Math Honor Student </h2>
 <h2 align="left">😄 Three languages speaker (French, Chinese, English)</h2>
 <h2 align="left">📫 Feel free to email me at lidanyang1111@gmail.com </h2>
 <p align="left">
